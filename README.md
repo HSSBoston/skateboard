@@ -11,7 +11,7 @@ This is a simple hack to a skateboard. I attached a Raspi-controlled LED bar and
 - Raspberry Pi Zero 2W
 - [Pimoroni BlinkIt!](https://shop.pimoroni.com/products/blinkt)
 - [Right angle GPIO header](https://www.amazon.com/dp/B08GC18NMK)
-- [Electro Luminescent (EL) wire](### Hardware Setup)
+- [Electro Luminescent (EL) wire](https://www.adafruit.com/product/586)
 - [Portable charger](https://www.amazon.com/dp/B082X53VDL/)
 - [Flirc Raspi Zero case](https://www.amazon.com/dp/B08837L144)
 
