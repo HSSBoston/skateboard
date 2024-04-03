@@ -4,16 +4,16 @@
   <img src="images/elwire.jpg" width="500">
 </p>
 
-This is a simple hack to a skateboard. I attached a Raspi-controlled LED bar and an electro luminescent (EL) wire to it. I makes skateboarding more fun and safer (at night). 
+This is a simple hack to a skateboard. I attached a Raspi-controlled LED bar and an electro luminescent (EL) wire to it. It makes skateboarding more fun and safer (at night). 
 
 ### Equipment
 
 - Raspberry Pi Zero 2W
-- Pimoroni BrinkIt!
-- Right angle GPIO header
-- Electro Luminescent (EL) wire
-- Portable charger
-- Flirc Raspi Zero case
+- [Pimoroni BlinkIt!](https://shop.pimoroni.com/products/blinkt)
+- [Right angle GPIO header](https://www.amazon.com/dp/B08GC18NMK)
+- [Electro Luminescent (EL) wire](### Hardware Setup)
+- [Portable charger](https://www.amazon.com/dp/B082X53VDL/)
+- [Flirc Raspi Zero case](https://www.amazon.com/dp/B08837L144)
 
 ### Hardware Setup
 
