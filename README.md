@@ -23,5 +23,9 @@ Glow in the Dark Skateboard is a "smart" skateboard has an electroluminescent (E
 ## Demo
 
 
+
+https://github.com/HSSBoston/skateboard/assets/74394277/6715e725-39fc-4ab6-be48-b868e4b46cbb
+
+
 https://github.com/HSSBoston/skateboard/assets/74394277/33ecd355-4d08-40e5-8ded-79be09db49d3
 
