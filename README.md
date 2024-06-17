@@ -11,9 +11,6 @@ Glow in the Dark Skateboard is a "smart" skateboard has an electroluminescent (E
 * [Version 2](https://docs.google.com/presentation/d/1M-zgE1pgPR6p0w8Frr0oSDhFO8sPquiY3voL5hAn7Dk/edit?usp=sharing), June 2024
 * [Version 1](https://docs.google.com/presentation/d/1NfC7M3Dkek9KYUD8xchcYe5VzVfrLYgeA9-4y5RsKxc/edit?usp=sharing), March 2024
 
-
-
-
 ## Equipment
 
 - Raspberry Pi Zero 2W
@@ -23,22 +20,7 @@ Glow in the Dark Skateboard is a "smart" skateboard has an electroluminescent (E
 - [Portable charger](https://www.amazon.com/dp/B082X53VDL/)
 - [Flirc Raspi Zero case](https://www.amazon.com/dp/B08837L144)
 
-## Hardware Setup
-
-<p align="center">
-  <img src="images/skateboard.jpg" width="700">
-  <br>
-  <img src="images/skateboard2.jpg" width="500">
-</p>
-
-## Code
-
-See the [code folder](code/) and run [orange-teal-fade.py](code/orange-teal-fade.py). 
-
 ## Demo
-
-https://github.com/HSSBoston/skateboard/assets/74394277/b3651035-a788-4097-8406-0e78ca647b7a
-
 
 
 https://github.com/HSSBoston/skateboard/assets/74394277/33ecd355-4d08-40e5-8ded-79be09db49d3
