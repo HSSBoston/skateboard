@@ -1,10 +1,16 @@
-## Raspberry Pi Skateboard
-
 <p align="center">
-  <img src="images/elwire.jpg" width="500">
+  <img src="images/logo.jpg" width="500">
 </p>
 
-This is a simple hack to a skateboard. I attached a Raspi-controlled LED bar and an electro luminescent (EL) wire to it. It makes skateboarding more fun and safer (at night). 
+This project delivers a hack to make skateboarding more fun and safer. It turns a skateboard to be an Internet-of-Things (IoT) device with a Raspberry Pi and its peripheral components.
+
+Glow in the Dark Skateboard is a "smart" skateboard has an electroluminescent (EL) wire and LED lights to make it bright and colorful. The lighting pattern changes based on the skateboard's orientation - level, upward, or downwards. This is implemented with Python code that continuously runs on a Raspberry Pi to calculate the pitch of the skateboard with an accelerometer. 
+
+### Equipment
+
+
+https://docs.google.com/presentation/d/1NfC7M3Dkek9KYUD8xchcYe5VzVfrLYgeA9-4y5RsKxc/edit?usp=sharing
+
 
 ### Equipment
 
