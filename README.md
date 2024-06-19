@@ -4,7 +4,7 @@
 
 This project delivers a hack to make skateboarding more fun and safer. It turns a skateboard to be an Internet-of-Things (IoT) device with a Raspberry Pi and its peripheral components.
 
-Glow in the Dark Skateboard is a "smart" skateboard has an electroluminescent (EL) wire and LED lights to make it bright and colorful. The lighting pattern changes based on the skateboard's orientation - level, upward, or downwards. This is implemented with Python code that continuously runs on a Raspberry Pi to calculate the pitch of the skateboard with an accelerometer. 
+Glow in the Dark Skateboard is a "smart" skateboard that has an electroluminescent (EL) wire and LED lights. The lighting pattern changes based on the skateboard's orientation - level, upward, or downward. This is implemented with Python code that continuously runs on a Raspberry Pi to calculate the pitch of the skateboard with an accelerometer. 
 
 ## Project History
 
