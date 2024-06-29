@@ -1,3 +1,6 @@
+# Blinkt! driver: https://github.com/pimoroni/blinkt
+# Blinkt! pinout: https://pinout.xyz/pinout/blinkt
+
 import blinkt, time, math
 from colorzero import Color, Hue
 from lis3dh import LIS3DH
