@@ -49,7 +49,7 @@ class LIS3DH:
             self._i2c.write_byte_data(self._addr, _CTRL_REG1, 0x67)
             # Set sensing full-scale
             self._i2c.write_byte_data(self._addr, _CTRL_REG4, scaleHex)
-            print("LIS3DH cconfigured with " + "addr=" + hex(self._addr) +\
+            print("LIS3DH configured with " + "addr=" + hex(self._addr) +\
                   ", sensing scale=±" + str(self._scale) + "g.")
         except OSError:
             print("Wrong I2C address: " + hex(self._addr))
