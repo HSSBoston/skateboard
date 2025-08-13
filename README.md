@@ -13,6 +13,10 @@ This project was submitted to and presented at [PhysTech 2024](https://binnovati
 * [Version 2](https://docs.google.com/presentation/d/1M-zgE1pgPR6p0w8Frr0oSDhFO8sPquiY3voL5hAn7Dk/edit?usp=sharing), June 2024
 * [Version 1](https://docs.google.com/presentation/d/1NfC7M3Dkek9KYUD8xchcYe5VzVfrLYgeA9-4y5RsKxc/edit?usp=sharing), March 2024
 
+## Publications
+
+- Hanna Suzuki, "Glow in the Dark Skateboard: a Futuristic and Smart Skateboard," In S. Nagata and S. Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Chapter 1, pp. 1 - 15, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
+
 ## Demo
 
 https://github.com/HSSBoston/skateboard/assets/74394277/6715e725-39fc-4ab6-be48-b868e4b46cbb
